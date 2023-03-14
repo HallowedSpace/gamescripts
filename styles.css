@@ -1,3 +1,8 @@
 .backround{
     background-image: url(assets/background.jpg);
+    background-size: cover;
+}
+#top-text{
+    font-family: 'Titan One', cursive;
+    color: rgb(0, 0, 0);
 }
